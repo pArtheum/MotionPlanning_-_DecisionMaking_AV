@@ -14,7 +14,16 @@ Both will work in unison to be able to:
 
 ## Usage
 
-Firstly, to use MotionPlanning_-_DecisionMaking_AV, Carla simulator needs to be running in the background. To do it, running the following commands:
+Firstly, to use MotionPlanning_-_DecisionMaking_AV, Carla simulator needs to be running in the background. 
+
+Firsty unzip MotionPlanning_-_DecisionMaking_AB/project/starter_files/lib.7z in order to be as follows:
+
+>- MotionPlanning_-_DecisionMaking_AB/project/starter_files/eigen-3.3.7
+>- MotionPlanning_-_DecisionMaking_AB/project/starter_files/libcarla-install
+>- MotionPlanning_-_DecisionMaking_AB/project/starter_files/rpclib
+
+
+To do it, running the following commands:
 
 ```
 su - student
